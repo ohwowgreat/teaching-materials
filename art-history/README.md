@@ -1,6 +1,6 @@
-# Art Appreciation
+# Art History
 
-Art Appreciation is a full-year course built around the Mnemosyne Atlas method of Aby Warburg. Rather than moving through art history in a single, fixed timeline, this course asks you to think across time, place, and medium: to find connections, patterns, and tensions between works that do not obviously belong together, and to build arguments from that constellation thinking.
+Art History is a full-year course built around the Mnemosyne Atlas method of Aby Warburg. Rather than moving through art history in a single, fixed timeline, this course asks you to think across time, place, and medium: to find connections, patterns, and tensions between works that do not obviously belong together, and to build arguments from that constellation thinking.
 
 The course runs in two semesters. Semester 1 is organized thematically, around the categories you will see in the unit list below. Semester 2 shifts toward the systems that shape how art is made, seen, valued, and distributed: patronage, markets, institutions, visibility, and professional practice. The year ends with a collaborative capstone project, an atlas-style book produced collectively by the class.
 
